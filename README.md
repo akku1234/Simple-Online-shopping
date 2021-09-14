@@ -1,3 +1,3 @@
 # Simple-Online-shopping
-[![Code Grade](<BADGE-LINK>)](<DASHBOARD-LINK>)
+[![Code Grade](https://www.code-inspector.com/project/28619/status/svg)
 ![code quality score](https://www.code-inspector.com/project/28619/score/svg)
